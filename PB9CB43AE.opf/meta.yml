@@ -1,0 +1,1164 @@
+id: P609BA611
+initial_creation_type: input
+source_metadata:
+  id: ''
+  title: thugsrjebrtsongrus
+  language: bo
+  author: ''
+  sutra:
+    JKTT1:
+      repeat: ''
+      vol: ༼ཀ༽ (༡)
+      page: ༼ཀ༽ 1-1-1line1~1-1-323line14
+      tname: དཔལ་དུས་ཀྱི་འཁོར་ལོ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོར་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་རྣམ་པར་གཏན་ལ་ཕབ་པ་མདོར་བསྡུས་པའི་རྒྱུད་ཀྱི་སྙིང་པོའི་རྒྱ་ཆེར་འགྲེལ་པ་དྲི་མ་མེད་པའི་འོད་བཞུགས་སོ།
+        །
+      wylie: dpal dus kyi 'khor lo bsdus pa'i rgyud kyi rgyal por zab lam rdo rje'i
+        rnal 'byor rnam par gtan la phab pa mdor bsdus pa'i rgyud kyi snying po'i
+        rgya cher 'grel pa dri ma med pa'i 'od bzhugs so/ /
+      aname: ''
+      sname: ''
+      roman: ''
+      cname: ''
+      cid: ''
+      homage: ''
+      subject: ''
+      topic: 0
+      yana: 0
+      school: 5
+      chakra: 0
+      location: ''
+      audience: ''
+      author: ''
+      requester: ''
+      dharma: ''
+      purpose: ''
+      collect: ''
+      bampo: ''
+      relation: ''
+      debate: ''
+      translator: ''
+      reviser: ''
+      age: 0
+    JKTT3:
+      repeat: ''
+      vol: ༼ཁ༽ (༢)
+      page: ༼ཁ༽ 2-1-1line1~2-1-5line
+      tname: དཀར་ཆག
+      wylie: dkar chag
+      aname: ''
+      sname: ''
+      roman: ''
+      cname: ''
+      cid: ''
+      homage: ''
+      subject: ''
+      topic: 0
+      yana: 0
+      school: 5
+      chakra: 0
+      location: ''
+      audience: ''
+      author: ''
+      requester: ''
+      dharma: ''
+      purpose: ''
+      collect: ''
+      bampo: ''
+      relation: ''
+      debate: ''
+      translator: ''
+      reviser: ''
+      age: 0
+  window.__data:
+  - id: 478294
+    text: ཀུན་སྤངས་ཐུགས་རྗེ་བརྩོན་འགྲུས་ཀྱི་གསུང་འབུམ། Works of Kunpang Thugje Tsondue
+      土杰尊珠大師全集
+    bo: ཀུན་སྤངས་ཐུགས་རྗེ་བརྩོན་འགྲུས་ཀྱི་གསུང་འབུམ།
+    en: Works of Kunpang Thugje Tsondue
+    zh-TW: 土杰尊珠大師全集
+    zh-CN: 土杰尊珠大师全集
+    KdbId: 84
+    SutraId: 63671
+    pbStart: 2726406
+    pbEnd: 2727253
+    nodes:
+    - id: 478295
+      text: ༼ཀ༽
+      bo: ཀུན་སྤངས་ཐུགས་རྗེ་བརྩོན་འགྲུས་ཀྱི་གསུང་འབུམ། ༼ཀ༽
+      en: Volume 1, ༼ཀ༽
+      zh-TW: 第一函 ༼ཀ༽
+      zh-CN: 第一函 ༼ཀ༽
+      KdbId: 84
+      SutraId: 63671
+      pbStart: 2726406
+      pbEnd: 2726795
+      nodes:
+      - id: 478296
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོར་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་རྣམ་པར་གཏན་ལ་ཕབ་པ་མདོར་བསྡུས་པའི་རྒྱུད་ཀྱི་སྙིང་པོའི་རྒྱ་ཆེར་འགྲེལ་པ་དྲི་མ་མེད་པའི་འོད་བཞུགས་སོ།
+          །
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོར་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་རྣམ་པར་གཏན་ལ་ཕབ་པ་མདོར་བསྡུས་པའི་རྒྱུད་ཀྱི་སྙིང་པོའི་རྒྱ་ཆེར་འགྲེལ་པ་དྲི་མ་མེད་པའི་འོད་བཞུགས་སོ།
+          །
+        en: dpal dus kyi khor lo bsdus pai rgyud kyi rgyal por zab lam rdo rjei rnal
+          byor rnam par gtan la phab pa mdor bsdus pai rgyud kyi snying poi rgya cher
+          grel pa dri ma med pai od bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63671
+        pbStart: 2726406
+        pbEnd: 2726729
+        nodes:
+        - id: 478297
+          text: བརྗོད་པར་བྱ་བ་དང༌། རྗོད་པར་བྱེད་པ་དང༌། འབྲེལ་པ་དང༌། དགོས་པ་དང༌། དགོས་པའི་དགོས་པ་རྣམས་མངོན་པར་ཡང་དག་པར་བཤད་པར་བྱ་བ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726409
+          pbEnd: 2726426
+        - id: 478298
+          text: རྡོ་རྗེའི་རྣལ་འབྱོར་བསྡུས་པ་བརྗོད་པར་བྱ་བ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726426
+          pbEnd: 2726433
+        - id: 478299
+          text: དགོས་པ་དང་དགོས་པའི་དགོས་པ་བསྡུས་པ་བརྗོད་པར་བྱ་བ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726433
+          pbEnd: 2726438
+        - id: 478300
+          text: མདོར་བསྡུས་ཏེ་བརྗོད་པར་བྱ་བ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726438
+          pbEnd: 2726447
+        - id: 478301
+          text: རིགས་དང་རིགས་ཅན་བརྗོད་པར་བྱ་བ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726447
+          pbEnd: 2726448
+        - id: 478302
+          text: མུ་སྟེགས་པ་རྣམས་གཞུག་པའི་ཕྱིར་རང་བཞིན་དང་སྐྱེས་བུ་བརྗོད་པར་བྱ་བ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726448
+          pbEnd: 2726453
+        - id: 478303
+          text: དང་པོ། ཕྱིའི་འཇིག་རྟེན་ཁམས་ཀྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726453
+          pbEnd: 2726463
+        - id: 478304
+          text: གཉིས་པ། ནང་སེམས་ཅན་ཁམས་ཀྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726463
+          pbEnd: 2726492
+        - id: 478305
+          text: གསུམ་པ། དབང་བསྐུར་བའི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726492
+          pbEnd: 2726520
+        - id: 478306
+          text: བཞི་པ། བསྒྲུབ་ཐབས་ཀྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726520
+          pbEnd: 2726709
+        - id: 478307
+          text: ལྔ་པ། ཡེ་ཤེས་ཀྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63671
+          pbStart: 2726709
+          pbEnd: 2726729
+      - id: 478308
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོར་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་རྣམ་པར་གཏན་ལ་ཕབ་པ་མདོར་བསྡུས་པའི་རྒྱུད་ཀྱི་སྙིང་པོའི་དཀའ་འགྲེལ་པད་མ་ཅན་བཞུགས།
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོར་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་རྣམ་པར་གཏན་ལ་ཕབ་པ་མདོར་བསྡུས་པའི་རྒྱུད་ཀྱི་སྙིང་པོའི་དཀའ་འགྲེལ་པད་མ་ཅན་བཞུགས།
+        en: dpal dus kyi khor lo bsdus pai rgyud kyi rgyal por zab lam rdo rjei rnal
+          byor rnam par gtan la phab pa mdor bsdus pai rgyud kyi snying poi dka grel
+          pad ma can bzhugs/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63672
+        pbStart: 2726729
+        pbEnd: 2726795
+        nodes:
+        - id: 478309
+          text: རྒྱ་ཆེར་འགྲེལ་པ་དྲི་མ་མེད་པའི་འོད་ཀྱི་འདོད་པའི་ལྷ་ལ་བསྟོད་ཕྱག་འཚལ་བ་དང༌།
+            བྲི་བར་དམ་བཅའ་བ་བཤད་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63672
+          pbStart: 2726729
+          pbEnd: 2726745
+        - id: 478310
+          text: དབང་བསྐུར་བའི་ལེའུ་ཡི་གོ་སླའི་བཤད་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63672
+          pbStart: 2726745
+          pbEnd: 2726752
+        - id: 478311
+          text: སྒྲུབ་ཐབས་ཀྱི་ལེའུ་ཡི་གོ་སླའི་བཤད་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63672
+          pbStart: 2726752
+          pbEnd: 2726775
+        - id: 478312
+          text: ཡེ་ཤེས་ཀྱི་ལེའུ་ཡི་གོ་སླའི་བཤད་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63672
+          pbStart: 2726775
+          pbEnd: 2726795
+    - id: 478313
+      text: ༼ཁ༽
+      bo: ཀུན་སྤངས་ཐུགས་རྗེ་བརྩོན་འགྲུས་ཀྱི་གསུང་འབུམ། ༼ཁ༽
+      en: Volume 2, ༼ཁ༽
+      zh-TW: 第二函 ༼ཁ༽
+      zh-CN: 第二函 ༼ཁ༽
+      KdbId: 84
+      SutraId: 63673
+      pbStart: 2726795
+      pbEnd: 2727253
+      nodes:
+      - id: 478314
+        text: དཀར་ཆག
+        bo: དཀར་ཆག
+        en: dkar chag
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63673
+        pbStart: 2726795
+        pbEnd: 2726800
+      - id: 478315
+        text: སྔོན་འགྲོ་དང་དབེན་གསུམ་གྱིས་ཁྲིད་ཡིག་བཞུགས་སོ། །
+        bo: སྔོན་འགྲོ་དང་དབེན་གསུམ་གྱིས་ཁྲིད་ཡིག་བཞུགས་སོ། །
+        en: sngon gro dang dben gsum gyis khrid yig bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63674
+        pbStart: 2726800
+        pbEnd: 2726815
+        nodes:
+        - id: 478316
+          text: སྔོན་དུ་འགྲོ་བའི་ཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63674
+          pbStart: 2726801
+          pbEnd: 2726813
+        - id: 478317
+          text: དངོས་གཞིའི་ཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63674
+          pbStart: 2726813
+          pbEnd: 2726815
+      - id: 478318
+        text: ཟབ་ལམ་གྱི་ཐོག་མར་དགེ་བའི་ཁྲིད་བཞུགས་སོ། །
+        bo: ཟབ་ལམ་གྱི་ཐོག་མར་དགེ་བའི་ཁྲིད་བཞུགས་སོ། །
+        en: zab lam gyi thog mar dge bai khrid bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63675
+        pbStart: 2726815
+        pbEnd: 2726835
+        nodes:
+        - id: 478319
+          text: ཐོག་མར་དགེ་བའི་འཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63675
+          pbStart: 2726815
+          pbEnd: 2726827
+        - id: 478320
+          text: བསྙེན་པའི་ཡན་ལག་དངོས་བསམ་གཏན་གྱི་ཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63675
+          pbStart: 2726827
+          pbEnd: 2726835
+      - id: 478321
+        text: ཟབ་ལམ་གྱི་བར་དུ་དགེ་བའི་ཁྲིད་ཡིག་བཞུགས་སོ། །
+        bo: ཟབ་ལམ་གྱི་བར་དུ་དགེ་བའི་ཁྲིད་ཡིག་བཞུགས་སོ། །
+        en: zab lam gyi bar du dge bai khrid yig bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63676
+        pbStart: 2726835
+        pbEnd: 2726853
+        nodes:
+        - id: 478322
+          text: ཉེ་བར་སྒྲུབ་པའི་ཡན་ལག་གི་སྔོན་འགྲོ་སྲོག་རྩོལ་གྱི་འཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63676
+          pbStart: 2726835
+          pbEnd: 2726847
+        - id: 478323
+          text: ཉེ་བར་སྒྲུབ་པའི་ཡན་ལག་དངོས་དེ་བཞིན་འཛིན་པའི་ཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63676
+          pbStart: 2726847
+          pbEnd: 2726853
+      - id: 478324
+        text: ཟབ་ལམ་གྱི་ཐ་མར་དགེ་བའི་ཁྲིད་བཞུགས་སོ། །
+        bo: ཟབ་ལམ་གྱི་ཐ་མར་དགེ་བའི་ཁྲིད་བཞུགས་སོ། །
+        en: zab lam gyi tha mar dge bai khrid bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63677
+        pbStart: 2726853
+        pbEnd: 2726878
+        nodes:
+        - id: 478325
+          text: བསྒྲུབ་པ་ཆེན་པོའི་སྔོན་འགྲོ་སྒྲུབ་པའི་ཡན་ལག་རྗེས་སུ་དྲན་པའི་འཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63677
+          pbStart: 2726853
+          pbEnd: 2726868
+        - id: 478326
+          text: སྒྲུབ་པ་ཆེན་པོའི་ཡན་ལག་དངོས་ཏིང་ངེ་འཛིན་གྱི་འཁྲིད།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63677
+          pbStart: 2726868
+          pbEnd: 2726878
+      - id: 478327
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་སྒོ་ནས་སྦྱོར་བ་ཡན་ལག་དྲུག་གི་ས་ལམ་བགྲོད་ཚུལ་བཞུགས།
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་སྒོ་ནས་སྦྱོར་བ་ཡན་ལག་དྲུག་གི་ས་ལམ་བགྲོད་ཚུལ་བཞུགས།
+        en: dpal dus kyi khor loi sgo nas sbyor ba yan lag drug gi sa lam bgrod tshul
+          bzhugs/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63678
+        pbStart: 2726878
+        pbEnd: 2726884
+      - id: 478328
+        text: སྦྱོར་དྲུག་གི་ངོ་སྤྲོད་ཀྱི་ས་གཅོད་མདོ་ཏིང་ངེ་འཛིན་དང་བཅས་པ་བཞུགས་སོ།
+          །
+        bo: སྦྱོར་དྲུག་གི་ངོ་སྤྲོད་ཀྱི་ས་གཅོད་མདོ་ཏིང་ངེ་འཛིན་དང་བཅས་པ་བཞུགས་སོ། །
+        en: sbyor drug gi ngo sprod kyi sa gcod mdo ting nge dzin dang bcas pa bzhugs
+          so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63679
+        pbStart: 2726884
+        pbEnd: 2726891
+      - id: 478329
+        text: དཔལ་དུས་ཀྱིས་འཁོར་ལོའི་བསྡུས་རྒྱུད་རྩ་འགྲེལ་ལས་ཕྱུང་པའི་དབང་རབ་འབྱེད་རྩ་འགྲེལ་གྱི་ས་གཅོད།
+          རྡོ་རྗེའི་ཚིག་འབྱེད་གསལ་སྒྲོན་ཞེས་བྱ་བ་བཞུགས་སོ། །
+        bo: དཔལ་དུས་ཀྱིས་འཁོར་ལོའི་བསྡུས་རྒྱུད་རྩ་འགྲེལ་ལས་ཕྱུང་པའི་དབང་རབ་འབྱེད་རྩ་འགྲེལ་གྱི་ས་གཅོད།
+          རྡོ་རྗེའི་ཚིག་འབྱེད་གསལ་སྒྲོན་ཞེས་བྱ་བ་བཞུགས་སོ། །
+        en: dpal dus kyis khor loi bsdus rgyud rtsa grel las phyung pai dbang rab
+          byed rtsa grel gyi sa gcod/ rdo rjei tshig byed gsal sgron zhes bya ba bzhugs
+          so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63680
+        pbStart: 2726891
+        pbEnd: 2726898
+      - id: 478330
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་མན་ངག་རྡོ་རྗེ་རྣལ་འབྱོར་བཞིའི་བསྙེན་བསྒྲུབ་ཀྱི་བསྡུས་དོན་བཞུགས་སོ།
+          །
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་མན་ངག་རྡོ་རྗེ་རྣལ་འབྱོར་བཞིའི་བསྙེན་བསྒྲུབ་ཀྱི་བསྡུས་དོན་བཞུགས་སོ།
+          །
+        en: dpal dus kyi khor loi man ngag rdo rje rnal byor bzhii bsnyen bsgrub kyi
+          bsdus don bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63681
+        pbStart: 2726898
+        pbEnd: 2726901
+      - id: 478331
+        text: ཡུ་མོའི་གསལ་སྒྲོན་བཞིའི་ས་གཅོད་ལགས་སོ། །
+        bo: ཡུ་མོའི་གསལ་སྒྲོན་བཞིའི་ས་གཅོད་ལགས་སོ། །
+        en: yu moi gsal sgron bzhii sa gcod lags so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63682
+        pbStart: 2726901
+        pbEnd: 2726906
+      - id: 478332
+        text: སྦྱོར་བ་ཡན་ལག་དྲུག་པ་དཔལ་ཤྭ་རི་ནས་བརྒྱུད་པའི་གཞུང་བཞུགས་སོ། །
+        bo: སྦྱོར་བ་ཡན་ལག་དྲུག་པ་དཔལ་ཤྭ་རི་ནས་བརྒྱུད་པའི་གཞུང་བཞུགས་སོ། །
+        en: sbyor ba yan lag drug pa dpal shwa ri nas brgyud pai gzhung bzhugs so/
+          /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63683
+        pbStart: 2726906
+        pbEnd: 2726909
+      - id: 478333
+        text: རྣལ་འབྱོར་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ།
+        bo: རྣལ་འབྱོར་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ།
+        en: rnal byor yan lag drug pa zhes bya ba/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63684
+        pbStart: 2726909
+        pbEnd: 2726910
+      - id: 478334
+        text: རྣལ་འབྱོར་ཡན་ལག་དྲུག་པའི་འགྲེལ་པ་སྙིང་པོ་བསྡུས་པ་ཞེས་བྱ་བ།
+        bo: རྣལ་འབྱོར་ཡན་ལག་དྲུག་པའི་འགྲེལ་པ་སྙིང་པོ་བསྡུས་པ་ཞེས་བྱ་བ།
+        en: rnal byor yan lag drug pai grel pa snying po bsdus pa zhes bya ba/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63685
+        pbStart: 2726910
+        pbEnd: 2726920
+      - id: 478335
+        text: ཤྭ་ཝ་རིའི་གཞུང་ཆུང་འགྲེལ་བ་དང་བཅས་པ་བཞུགས།
+        bo: ཤྭ་ཝ་རིའི་གཞུང་ཆུང་འགྲེལ་བ་དང་བཅས་པ་བཞུགས།
+        en: shwa wa rii gzhung chung grel ba dang bcas pa bzhugs/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63686
+        pbStart: 2726920
+        pbEnd: 2726921
+      - id: 478336
+        text: རྣལ་འབྱོར་ཡན་ལག་དྲུག་གི་འགྲེལ་པ་སྙིང་པོ་བསྡུས་པ་ཞེས་བྱ་བ།
+        bo: རྣལ་འབྱོར་ཡན་ལག་དྲུག་གི་འགྲེལ་པ་སྙིང་པོ་བསྡུས་པ་ཞེས་བྱ་བ།
+        en: rnal byor yan lag drug gi grel pa snying po bsdus pa zhes bya ba/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63687
+        pbStart: 2726921
+        pbEnd: 2726931
+      - id: 478337
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་བླ་མའི་རྣལ་འབྱོར་བཞུགས་སོ། །
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་བླ་མའི་རྣལ་འབྱོར་བཞུགས་སོ། །
+        en: dpal dus kyi khor loi bla mai rnal byor bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63688
+        pbStart: 2726931
+        pbEnd: 2726938
+      - id: 478338
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་མན་ངག་ཡེ་ཤེས་སྤྱན་བསྒྲུབ་ཀྱི་ས་གཅོད་བཞུགས་སོ།
+          །
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་མན་ངག་ཡེ་ཤེས་སྤྱན་བསྒྲུབ་ཀྱི་ས་གཅོད་བཞུགས་སོ། །
+        en: dpal dus kyi khor loi man ngag ye shes spyan bsgrub kyi sa gcod bzhugs
+          so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63689
+        pbStart: 2726938
+        pbEnd: 2726940
+      - id: 478339
+        text: དབང་མདོར་བསྟན་གྱི་བསྡུས་དོན།
+        bo: དབང་མདོར་བསྟན་གྱི་བསྡུས་དོན།
+        en: dbang mdor bstan gyi bsdus don/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63690
+        pbStart: 2726940
+        pbEnd: 2726948
+      - id: 478340
+        text: ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་གི་འགྲེལ་བ་ཚིག་དོན་གསལ་བྱེད་སྒྲོན་མ།
+        bo: ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་གི་འགྲེལ་བ་ཚིག་དོན་གསལ་བྱེད་སྒྲོན་མ།
+        en: lam bras rdo rje tshig rkang gi grel ba tshig don gsal byed sgron ma/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63691
+        pbStart: 2726948
+        pbEnd: 2727089
+        nodes:
+        - id: 478341
+          text: བླ་མ་དམ་པ་ལ་མཆོད་པར་བརྗོད་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63691
+          pbStart: 2726948
+          pbEnd: 2726951
+        - id: 478342
+          text: ལམ་འབྲས་གདམས་ངག་བྲི་བར་དམ་བཅས་པས་མདོར་བསྟན་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63691
+          pbStart: 2726951
+          pbEnd: 2726953
+        - id: 478343
+          text: ལམ་འབྲས་བུ་དང་བཅས་པའི་གདམ་ངག་གི་ཚིག་དོན་ཉམས་སུ་བླང་ལུགས་ཀྱིས་རྒྱས་པར་བཤད་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63691
+          pbStart: 2726953
+          pbEnd: 2727086
+          nodes:
+          - id: 478344
+            text: ལམ་འབྲས་བུ་དང་བཅས་པའི་གདམས་ངག
+            bo: None
+            en: None
+            zh-TW: None
+            zh-CN: None
+            KdbId: 84
+            SutraId: 63691
+            pbStart: 2726953
+            pbEnd: 2727084
+            nodes:
+            - id: 478345
+              text: གཞི་བཅའ་པ་ལམ་འབྲས་འབྲིང་པོས་མདོར་བསྟན་པ།
+              bo: None
+              en: None
+              zh-TW: None
+              zh-CN: None
+              KdbId: 84
+              SutraId: 63691
+              pbStart: 2726953
+              pbEnd: 2726957
+            - id: 478346
+              text: གཞུང་བསྲང་པ་ལམ་འབྲས་རྒྱས་པས་རྒྱས་པར་བཤད་པ།
+              bo: None
+              en: None
+              zh-TW: None
+              zh-CN: None
+              KdbId: 84
+              SutraId: 63691
+              pbStart: 2726957
+              pbEnd: 2727083
+              nodes:
+              - id: 478347
+                text: གནས་སྐབས་ཀྱི་ལམ་འབྲས་བསྟན་པ།
+                bo: None
+                en: None
+                zh-TW: None
+                zh-CN: None
+                KdbId: 84
+                SutraId: 63691
+                pbStart: 2726957
+                pbEnd: 2727080
+                nodes:
+                - id: 478348
+                  text: འཁོར་ལོ་བརྩོམ་པ་འཁོར་འདས་ཐུན་མོང་གི་ལམ་འབྲས་བསྟན་པ།
+                  bo: None
+                  en: None
+                  zh-TW: None
+                  zh-CN: None
+                  KdbId: 84
+                  SutraId: 63691
+                  pbStart: 2726957
+                  pbEnd: 2727014
+                  nodes:
+                  - id: 478349
+                    text: ལམ་འབྲས་བུ་དང་བཅས་པའི་རྒྱུ་གསུམ་གྱི་འཁྲིད་རིམ་བསྟན་པ།
+                    bo: None
+                    en: None
+                    zh-TW: None
+                    zh-CN: None
+                    KdbId: 84
+                    SutraId: 63691
+                    pbStart: 2726957
+                    pbEnd: 2726995
+                    nodes:
+                    - id: 478350
+                      text: སྤྱིར་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2726957
+                      pbEnd: 2726959
+                    - id: 478351
+                      text: བྱེ་བྲག་ཏུ་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2726959
+                      pbEnd: 2726959
+                    - id: 478352
+                      text: ལུས་ཐབས་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2726959
+                      pbEnd: 2726992
+                      nodes:
+                      - id: 478353
+                        text: སྨིན་ལམ་དབང་བཞི་བསྐུར་བའི་ལམ་འབྲས།
+                        bo: None
+                        en: None
+                        zh-TW: None
+                        zh-CN: None
+                        KdbId: 84
+                        SutraId: 63691
+                        pbStart: 2726959
+                        pbEnd: 2726961
+                      - id: 478354
+                        text: གྲོལ་ལམ་བསྐྱེད་རྫོགས་བཞི་བསྒོམས་པའི་ལམ་འབྲས།
+                        bo: None
+                        en: None
+                        zh-TW: None
+                        zh-CN: None
+                        KdbId: 84
+                        SutraId: 63691
+                        pbStart: 2726961
+                        pbEnd: 2726989
+                      - id: 478355
+                        text: ལམ་གྱི་དམ་ཚིག་བསྟེན་བསྲུང་དང་བསྐང་མཆོད་བསྟན་པ།
+                        bo: None
+                        en: None
+                        zh-TW: None
+                        zh-CN: None
+                        KdbId: 84
+                        SutraId: 63691
+                        pbStart: 2726989
+                        pbEnd: 2726992
+                    - id: 478356
+                      text: ལུས་བཤད་རྒྱུད་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2726992
+                      pbEnd: 2726995
+                  - id: 478357
+                    text: ལམ་འབྲས་བུ་དང་བཅས་པའི་འཁྲིད་ཀྱི་བོགས་དབྱུང་བ་བསྟན་པ།
+                    bo: None
+                    en: None
+                    zh-TW: None
+                    zh-CN: None
+                    KdbId: 84
+                    SutraId: 63691
+                    pbStart: 2726995
+                    pbEnd: 2727006
+                  - id: 478358
+                    text: ལམ་འབྲས་བུ་དང་བཅས་པའི་རྟེན་འབྲེལ་ལྔ་འགྲིག་ཚུལ།
+                    bo: None
+                    en: None
+                    zh-TW: None
+                    zh-CN: None
+                    KdbId: 84
+                    SutraId: 63691
+                    pbStart: 2727006
+                    pbEnd: 2727007
+                  - id: 478359
+                    text: ལམ་འབྲས་བུ་དང་བཅས་པའི་ལམ་གྱི་བར་ཆད་བསྲུང་པ་བསྟན་པ།
+                    bo: None
+                    en: None
+                    zh-TW: None
+                    zh-CN: None
+                    KdbId: 84
+                    SutraId: 63691
+                    pbStart: 2727007
+                    pbEnd: 2727014
+                - id: 478360
+                  text: འཁོར་ལོ་འཆམ་པ་འཇིག་རྟེན་པའི་ལམ་འབྲས་བསྟན་པ།
+                  bo: None
+                  en: None
+                  zh-TW: None
+                  zh-CN: None
+                  KdbId: 84
+                  SutraId: 63691
+                  pbStart: 2727014
+                  pbEnd: 2727053
+                - id: 478361
+                  text: འཁོར་ལོ་སྐོར་བ་འཇིག་རྟེན་ལས་འདས་པའི་ལམ་འབྲས་བསྟན་པ།
+                  bo: None
+                  en: None
+                  zh-TW: None
+                  zh-CN: None
+                  KdbId: 84
+                  SutraId: 63691
+                  pbStart: 2727053
+                  pbEnd: 2727080
+                  nodes:
+                  - id: 478362
+                    text: སྤྱིར་འདས་པའི་ལམ་འབྲས་ཀྱི་རྣམ་བཞག་བསྟན་པ།
+                    bo: None
+                    en: None
+                    zh-TW: None
+                    zh-CN: None
+                    KdbId: 84
+                    SutraId: 63691
+                    pbStart: 2727053
+                    pbEnd: 2727054
+                  - id: 478363
+                    text: བྱེ་བྲག་ཏུ་གྲུབ་མཐའ་བཞིའི་ལམ་འབྲས་བསྟན་པ།
+                    bo: None
+                    en: None
+                    zh-TW: None
+                    zh-CN: None
+                    KdbId: 84
+                    SutraId: 63691
+                    pbStart: 2727054
+                    pbEnd: 2727080
+                    nodes:
+                    - id: 478364
+                      text: བུམ་དབང་ཕྱི་ནང་དང་འབྲེལ་བ་གྲུབ་མཐའ་དང་པོའི་ལམ་འབྲས་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2727054
+                      pbEnd: 2727061
+                    - id: 478365
+                      text: གསང་དབང་གསང་པ་དང་འབྲེལ་པ་གྲུབ་མཐའ་གཉིས་པའི་ལམ་འབྲས་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2727061
+                      pbEnd: 2727065
+                    - id: 478366
+                      text: ཤེས་རབ་ཡེ་ཤེས་ཀྱི་དབང་དེ་ཁོ་ན་ཉིད་དང་འབྲེལ་པ་གྲུབ་མཐའ་གསུམ་པའི་ལམ་འབྲས་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2727065
+                      pbEnd: 2727074
+                    - id: 478367
+                      text: དབང་བཞི་པ་མཐར་ཐུག་དང་འབྲེལ་པས་ས་བཅུ་གསུམ་པའི་ཕྱེད་རྡོ་རྗེ་འཛིན་འཆང་པའི་སའི་ལམ་འབྲས་བསྟན་པ།
+                      bo: None
+                      en: None
+                      zh-TW: None
+                      zh-CN: None
+                      KdbId: 84
+                      SutraId: 63691
+                      pbStart: 2727074
+                      pbEnd: 2727080
+              - id: 478368
+                text: མཐར་ཐུག་གི་འབྲས་བུ་བསྟན་པ།
+                bo: None
+                en: None
+                zh-TW: None
+                zh-CN: None
+                KdbId: 84
+                SutraId: 63691
+                pbStart: 2727080
+                pbEnd: 2727083
+            - id: 478369
+              text: མཇུག་བསྡུ་བ་ལམ་འབྲས་བསྡུས་པས་མདོར་བསྡུས་བསྟན་པ།
+              bo: None
+              en: None
+              zh-TW: None
+              zh-CN: None
+              KdbId: 84
+              SutraId: 63691
+              pbStart: 2727083
+              pbEnd: 2727084
+          - id: 478370
+            text: འབྲིང་རྒྱས་བསྡུས་གསུམ་དུ་བསྟན་པ།
+            bo: None
+            en: None
+            zh-TW: None
+            zh-CN: None
+            KdbId: 84
+            SutraId: 63691
+            pbStart: 2727084
+            pbEnd: 2727085
+          - id: 478371
+            text: ཟབ་འབྲིང་ཐ་གསུམ་དུ་བསྟན་པ།
+            bo: None
+            en: None
+            zh-TW: None
+            zh-CN: None
+            KdbId: 84
+            SutraId: 63691
+            pbStart: 2727085
+            pbEnd: 2727086
+        - id: 478372
+          text: ལམ་འབྲས་བུ་དང་བཅས་པའི་གདམ་ངག་ཡངོས་སུ་རྗོགས་པའི་རྗེས་ཀྱི་བྱ་བས་མཇུག་བསྡུ་བ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63691
+          pbStart: 2727086
+          pbEnd: 2727089
+      - id: 478373
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཐུགས་དཀྱིལ་མངོན་རྟོགས་བསྐྱེད་རིམ་གསལ་སྒྲོན་བཞུགས།
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཐུགས་དཀྱིལ་མངོན་རྟོགས་བསྐྱེད་རིམ་གསལ་སྒྲོན་བཞུགས།
+        en: dpal dus kyi khor loi thugs dkyil mngon rtogs bskyed rim gsal sgron bzhugs/
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63692
+        pbStart: 2727089
+        pbEnd: 2727135
+      - id: 478374
+        text: དཔལ་ལྡན་དུས་འཁོར་གྱི་མངོན་རྟོགས་གསལ་སྒྲོན་བཞུགས་སོ། །
+        bo: དཔལ་ལྡན་དུས་འཁོར་གྱི་མངོན་རྟོགས་གསལ་སྒྲོན་བཞུགས་སོ། །
+        en: dpal ldan dus khor gyi mngon rtogs gsal sgron bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63693
+        pbStart: 2727135
+        pbEnd: 2727146
+        nodes:
+        - id: 478375
+          text: སྔོན་འགྲོ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: 63693
+          pbStart: 2727135
+          pbEnd: 2727146
+      - id: 478376
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་སྒྲུབ་ཐབས་ཤིན་ཏུ་མདོར་བསྡུས་པ་རིན་ཆེན་སྒྲོན་མེ་བཞུགས་སོ།
+          །
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་སྒྲུབ་ཐབས་ཤིན་ཏུ་མདོར་བསྡུས་པ་རིན་ཆེན་སྒྲོན་མེ་བཞུགས་སོ།
+          །
+        en: dpal dus kyi khor loi sgrub thabs shin tu mdor bsdus pa rin chen sgron
+          me bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63694
+        pbStart: 2727146
+        pbEnd: 2727162
+      - id: 478377
+        text: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྡོ་རྗེ་སློབ་དཔོན་དབང་གི་ཆོ་ག་བཞུགས་སོ། །
+        bo: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྡོ་རྗེ་སློབ་དཔོན་དབང་གི་ཆོ་ག་བཞུགས་སོ། །
+        en: dpal dus kyi khor loi rdo rje slob dpon dbang gi cho ga bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63695
+        pbStart: 2727162
+        pbEnd: 2727181
+      - id: 478378
+        text: དཔལ་མཁའ་འགྲོ་རྒྱ་མཚོའི་བསྟོད་པ་ཀུན་མཁྱེན་ཆེན་པོས་མཛད་པ་བཞུགས་སོ། །
+        bo: དཔལ་མཁའ་འགྲོ་རྒྱ་མཚོའི་བསྟོད་པ་ཀུན་མཁྱེན་ཆེན་པོས་མཛད་པ་བཞུགས་སོ། །
+        en: dpal mkha gro rgya mtshoi bstod pa kun mkhyen chen pos mdzad pa bzhugs
+          so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: 63696
+        pbStart: 2727181
+        pbEnd: 2727186
+      - id: 478379
+        text: དཔལ་ལྡན་བླ་མ་དམ་པ་ཆོས་རྗེ་ཐམས་ཅད་མཁྱེན་པ་ཆོས་སྐུ་འོད་ཟེར་གྱི་རྣམ་ཐར་ཡོན་ཏན་རིན་པོ་ཆེ་གསལ་བྱེད་སྒྲོན་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+          །
+        bo: དཔལ་ལྡན་བླ་མ་དམ་པ་ཆོས་རྗེ་ཐམས་ཅད་མཁྱེན་པ་ཆོས་སྐུ་འོད་ཟེར་གྱི་རྣམ་ཐར་ཡོན་ཏན་རིན་པོ་ཆེ་གསལ་བྱེད་སྒྲོན་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+          །
+        en: dpal ldan bla ma dam pa chos rje thams cad mkhyen pa chos sku od zer gyi
+          rnam thar yon tan rin po che gsal byed sgron ma zhes bya ba bzhugs so/ /
+        zh-TW: None
+        zh-CN: None
+        KdbId: 84
+        SutraId: None
+        pbStart: 2727186
+        pbEnd: 2727253
+        nodes:
+        - id: 478380
+          text: སྐབས་དང་པོ། ཀླད་དོན་མཆོད་བརྗོད་དང་རྣམ་ཐར་བརྗོད་པར་བྱ་བ་བསྟན་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727186
+          pbEnd: 2727187
+        - id: 478381
+          text: སྐབས་གཉིས་པ། སྐུ་གསུང་ཐུགས་ཀྱི་མཛད་པའི་འཕྲིན་ལས་སྤྱིར་བསྟན་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727187
+          pbEnd: 2727188
+        - id: 478382
+          text: སྐབས་གསུམ་པ། འདས་པའི་དུས་ཀྱི་མཛད་པའི་འཕྲིན་ལས་ཚད་མེད་པར་བསྟན་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727188
+          pbEnd: 2727191
+        - id: 478383
+          text: སྐབས་བཞི་པ། ད་ལྟར་དུས་ཀྱི་སྐུ་ཚེ་འདིའི་མཛད་པ་འཕྲིན་ལས་ཚད་མེད་པར་བསྟན་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727191
+          pbEnd: 2727191
+        - id: 478384
+          text: དང་པོ། གཟིགས་པ་ལྔ་ལས་གཞི་རྟེན་ཡོན་ཏན་ཕུན་སུམ་ཚོགས་པ་ཡབ་ཡུམ་གྱི་མཛད་ཚུལ་ཀྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727191
+          pbEnd: 2727192
+        - id: 478385
+          text: གཉིས་པ། བརྟེན་པ་རིགས་ལྡན་ཆེན་པོ་ལྷུམས་སུ་ཞུགས་པའི་མཛད་ཚུལ་གྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727192
+          pbEnd: 2727193
+        - id: 478386
+          text: གསུམ་པ། སྤྲུལ་སྐུ་ལྷུམས་ནས་བལྟམ་པའི་མཛད་ཚུལ་གྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727193
+          pbEnd: 2727193
+        - id: 478387
+          text: བཞི་པ། གཞོན་ནུའི་གནས་སྐབས་ཀྱི་མཛད་ཚུལ་གྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727193
+          pbEnd: 2727195
+        - id: 478388
+          text: ལྔ་པ། འཁོར་བ་ལས་ཐུགས་བྱུང་སྟེ་རབ་ཏུ་བྱུང་བའི་མཛད་ཚུལ་གྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727195
+          pbEnd: 2727196
+        - id: 478389
+          text: དྲུག་པ། དཀའ་བ་སྤྱད་དེ་ཐོས་བསམ་གྱིས་ཤེས་རབ་ཀྱི་བསླབ་པ་མཐར་ཕྱིན་པར་མཛད་པའི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727196
+          pbEnd: 2727209
+        - id: 478390
+          text: བདུན་པ། བདུད་བཏུལ་བ་ལ་སོགས་པའི་མཛད་ཚུལ་གྱི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727209
+          pbEnd: 2727225
+        - id: 478391
+          text: བརྒྱད་པ། གདུལ་བྱ་རབ་ཏུ་མང་པོ་ཐུན་མོང་མཚན་ཉིད་སྡེ་གསུམ་གྱི་ངེས་པར་ལེགས་པའི་བྱང་ཆུབ་ལ་བཀོད་པའི་མཛད་ཚུལ་བསྟན་པའི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727225
+          pbEnd: 2727227
+        - id: 478392
+          text: དགུ་པ། གསང་སྔགས་ཕྱི་རྒྱུད་ཀྱི་ཆོས་འཁོར་བསྐོར་བའི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727227
+          pbEnd: 2727229
+        - id: 478393
+          text: བཅུ་པ། མི་རྣམས་ལ་ཟབ་པ་དང་རྒྱ་ཆེ་བ་གཙོར་གསང་སྔགས་བླ་མེད་རྡོ་རྗེ་ཐེག་པའི་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཚུལ་གྱི་མཛད་པ་བསྟན་པའི་ལེའུ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727229
+          pbEnd: 2727249
+          nodes:
+          - id: 478394
+            text: བཅུ་གཅིག་པ། ལྷ་དང་མི་མ་ཡིན་པ་རྣམས་སྨིན་ཅིང་གྲོལ་བར་མཛད་པའི་ལེའུ།
+            bo: None
+            en: None
+            zh-TW: None
+            zh-CN: None
+            KdbId: 84
+            SutraId: None
+            pbStart: 2727241
+            pbEnd: 2727242
+          - id: 478395
+            text: བཅུ་གཉིས་པ། གདུལ་བྱའི་དཔལ་མགོན་མཛད་པ་བསྟན་པའི་ལེའུ།
+            bo: None
+            en: None
+            zh-TW: None
+            zh-CN: None
+            KdbId: 84
+            SutraId: None
+            pbStart: 2727242
+            pbEnd: 2727249
+        - id: 478396
+          text: སྐབས་ལྔ་པ། མ་འོངས་པའི་དུས་ཀྱི་མཛད་པ་འཕྲིན་ལས་ཚད་མེད་པར་བསྟན་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727249
+          pbEnd: 2727250
+        - id: 478397
+          text: སྐབས་དྲུག་པ། མཇུག་བསྔོ་བ་སྨོན་ལམ་གྱིས་དར་ཞིང་རྒྱས་པར་འགྱུར་ཚུལ་བསྟན་པ།
+          bo: None
+          en: None
+          zh-TW: None
+          zh-CN: None
+          KdbId: 84
+          SutraId: None
+          pbStart: 2727250
+          pbEnd: 2727253
+created_at: '2022-01-09T11:42:06.237025'
+last_modified_at: '2022-01-09T11:42:06.237031'

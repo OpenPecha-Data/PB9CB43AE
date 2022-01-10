@@ -1,0 +1,30 @@
+id: 09fa59a486734445a50e6fffcbf99e42
+annotation_type: index
+revision: '00001'
+annotations:
+  ce8739745a59470f8a6d24c7e715387f:
+    work_id: JKTT1
+    parts:
+      700d0270edef4dfca12e6344ac126ab6:
+        work_id: JKTT1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 533931
+    span:
+    - vol: 1
+      start: 0
+      end: 533931
+  bbc648c3dd794d06a1e8381f1cd5ee06:
+    work_id: JKTT3
+    parts:
+      374559d75cc24284aff301ae88db0e38:
+        work_id: JKTT3-2
+        span:
+        - vol: 2
+          start: 0
+          end: 2531
+    span:
+    - vol: 2
+      start: 0
+      end: 2531
